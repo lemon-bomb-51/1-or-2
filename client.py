@@ -1,4 +1,4 @@
-import me_module as m
+import module as m
 
 '''
 1) 자연수를 찾고 짝수와 홀수를 구분해주는 함수
